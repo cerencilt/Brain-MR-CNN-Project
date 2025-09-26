@@ -82,18 +82,6 @@ Proje; temel bir **Convolutional Neural Network (CNN)** modeli ile **VGG16 taban
 - **Aktivasyon Haritaları:** İlk 4 evrişim katmanının çıktılarını görselleştirerek modelin hangi özellikleri yakaladığını inceledik.
 - **Bar Grafiği ile Karşılaştırma:** Temel CNN ve Transfer Learning modellerinin test doğrulukları görsel olarak karşılaştırılmıştır.
 
----
-
-## Sonuç ve Gelecek Çalışmalar
-
-Bu proje, beyin MR görüntülerinden tümör tespiti için yüksek doğruluklu bir temel CNN modeli sunmaktadır.  
-Gelecek adımlar:
-- Daha büyük ve çeşitlendirilmiş MRI veri setleriyle yeniden eğitim
-- **Explainable AI (XAI)** ile model karar mekanizmalarının açıklanması
-- Gerçek zamanlı tespit için **Streamlit veya Flask** tabanlı bir web arayüzü
-- Mobil cihazlara entegrasyon için TensorFlow Lite dönüştürmesi
-
----
 
 ## 🔗 Linkler
 
